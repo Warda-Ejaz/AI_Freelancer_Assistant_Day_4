@@ -37,7 +37,7 @@ A professional Streamlit SaaS tool that helps freelancers manage client communic
 
 1. **Clone & Navigate**
     ```bash
-    git clone <your-repo-link>
+    git clone <https://github.com/Warda-Ejaz/AI_Freelancer_Assistant_Day_4>
     cd AI_FREELANCER_DAY_4
 2. *Install Dependencies*
     pip install streamlit pandas plotly fpdf
